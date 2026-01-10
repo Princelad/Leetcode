@@ -14,3 +14,9 @@ A collection of LeetCode problem solutions implemented in C++.
 | 11  | [Container With Most Water](Arrays%20&%20Strings/11.%20Container%20With%20Most%20Water.cpp)                                            | Medium     | Two Pointers         | O(n)             | O(1)       |
 | 14  | [Longest Common Prefix](Arrays%20&%20Strings/14.%20Longest%20Common%20Prefix.cpp)                                                      | Easy       | Vertical Scanning    | O(n\*m)          | O(1)       |
 | 15  | [3Sum](Arrays%20&%20Strings/15.%203Sum.cpp)                                                                                            | Medium     | Two Pointers         | O(n²)            | O(1)       |
+
+## Binary Search & Coordinate Compression
+
+| #    | Problem                                                                                                    | Difficulty | Solution                  | Time         | Space |
+| ---- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------------ | ----- |
+| 2251 | [Number of Flowers in Full Bloom](2251.%20Number%20of%20Flowers%20in%20Full%20Bloom.cpp)                  | Hard       | Two Binary Searches       | O(n log n)   | O(n)  |
