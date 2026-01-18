@@ -17,6 +17,7 @@
 | 80   | Remove Duplicates from Sorted Array II         | [80. Remove Duplicates from Sorted Array II.cpp](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)                     |
 | 743  | Network Delay Time                             | [743. Network Delay Time.cpp](743.%20Network%20Delay%20Time.cpp)                                                                 |
 | 1004 | Max Consecutive Ones III                       | [1004. Max Consecutive Ones III.cpp](1004.%20Max%20Consecutive%20Ones%20III.cpp)                                                 |
+| 1895 | Largest Magic Square                           | [1895. Largest Magic Square.cpp](1895.%20Largest%20Magic%20Square.cpp)                                                           |
 | 2134 | Minimum Swaps to Group All 1's Together II     | [2134. Minimum Swaps to Group All 1's Together II.cpp](2134.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II.cpp)     |
 | 2251 | Number of Flowers in Full Bloom                | [2251. Number of Flowers in Full Bloom.cpp](2251.%20Number%20of%20Flowers%20in%20Full%20Bloom.cpp)                               |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR     | [2411. Smallest Subarrays With Maximum Bitwise OR.cpp](2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.cpp)         |
