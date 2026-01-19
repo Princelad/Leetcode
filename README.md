@@ -9,6 +9,7 @@
 | 4    | Median of Two Sorted Arrays                    | [4. Median of Two Sorted Arrays.cpp](4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)                                               |
 | 5    | Longest Palindromic Substring                  | [5. Longest Palindromic Substring.cpp](5.%20Longest%20Palindromic%20Substring.cpp)                                               |
 | 6    | Zigzag Conversion                              | [6. Zigzag Conversion.cpp](6.%20Zigzag%20Conversion.cpp)                                                                         |
+| 8    | String to Integer (atoi)                       | [8. String to Integer (atoi).cpp](<8.%20String%20to%20Integer%20(atoi).cpp>)                                                     |
 | 11   | Container With Most Water                      | [11. Container With Most Water.cpp](11.%20Container%20With%20Most%20Water.cpp)                                                   |
 | 14   | Longest Common Prefix                          | [14. Longest Common Prefix.cpp](14.%20Longest%20Common%20Prefix.cpp)                                                             |
 | 15   | 3Sum                                           | [15. 3Sum.cpp](15.%203Sum.cpp)                                                                                                   |
