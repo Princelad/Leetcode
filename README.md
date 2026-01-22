@@ -18,11 +18,15 @@
 | 80   | Remove Duplicates from Sorted Array II         | [80. Remove Duplicates from Sorted Array II.cpp](80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)                     |
 | 743  | Network Delay Time                             | [743. Network Delay Time.cpp](743.%20Network%20Delay%20Time.cpp)                                                                 |
 | 1004 | Max Consecutive Ones III                       | [1004. Max Consecutive Ones III.cpp](1004.%20Max%20Consecutive%20Ones%20III.cpp)                                                 |
+| 1411 | Number of Ways to Paint N × 3 Grid             | [1411. Number of Ways to Paint N × 3 Grid.cpp](1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid.cpp)                   |
 | 1895 | Largest Magic Square                           | [1895. Largest Magic Square.cpp](1895.%20Largest%20Magic%20Square.cpp)                                                           |
 | 2134 | Minimum Swaps to Group All 1's Together II     | [2134. Minimum Swaps to Group All 1's Together II.cpp](2134.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II.cpp)     |
 | 2251 | Number of Flowers in Full Bloom                | [2251. Number of Flowers in Full Bloom.cpp](2251.%20Number%20of%20Flowers%20in%20Full%20Bloom.cpp)                               |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR     | [2411. Smallest Subarrays With Maximum Bitwise OR.cpp](2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.cpp)         |
+| 3314 | Construct the Minimum Bitwise Array I          | [3314. Construct the Minimum Bitwise Array I.cpp](3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I.cpp)                   |
+| 3315 | Construct the Minimum Bitwise Array II         | [3315. Construct the Minimum Bitwise Array II.cpp](3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II.cpp)                 |
 | 3453 | Separate Squares I                             | [3453. Separate Squares I.cpp](3453.%20Separate%20Squares%20I.cpp)                                                               |
+| 3507 | Minimum Pair Removal to Sort Array I           | [3507. Minimum Pair Removal to Sort Array I.cpp](3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I.cpp)                   |
 | 3803 | Count Residue Prefixes                         | [3803. Count Residue Prefixes.cpp](3803.%20Count%20Residue%20Prefixes.cpp)                                                       |
 | 3804 | Number of Centered Subarrays                   | [3804. Number of Centered Subarrays.cpp](3804.%20Number%20of%20Centered%20Subarrays.cpp)                                         |
 | 3805 | Count Caesar Cipher Pairs                      | [3805. Count Caesar Cipher Pairs.cpp](3805.%20Count%20Caesar%20Cipher%20Pairs.cpp)                                               |
