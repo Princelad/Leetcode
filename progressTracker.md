@@ -10,8 +10,8 @@ Mastering Sliding Window and Two Pointers for placement interviews
 
 ### Ice Breaker (Easy)
 
-- [ ] Maximum Subarray of Size K
-- [ ] First Negative in Every Window of Size K
+- [x] LeetCode 643 - Maximum Average Subarray I
+- [ ] LeetCode 1343 - Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 
 ### Medium
 
@@ -57,33 +57,3 @@ Mastering Sliding Window and Two Pointers for placement interviews
 - [ ] LeetCode 493 - Reverse Pairs
 
 ---
-
-## 📊 Study Progress
-
-### Completed
-
-- [ ] Topic 1
-- [ ] Topic 2
-
-### In Progress
-
-- [ ] Current topic
-
-### Not Started
-
-- [ ] Upcoming topic
-
----
-
-## 📝 Notes & Key Learnings
-
-- Add observations here
-- Document patterns you discover
-- Note corner cases encountered
-
-## 🎯 Next Steps
-
-1. Complete ice breaker problems
-2. Work through medium problems systematically
-3. Attempt hard problems after mastery
-4. Review and optimize solutions
